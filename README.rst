@@ -13,6 +13,9 @@ Arepa
         :target: https://arepa.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://pyup.io/repos/github/pydanny/arepa/shield.svg
+     :target: https://pyup.io/repos/github/pydanny/arepa/
+     :alt: Updates
 
 
 

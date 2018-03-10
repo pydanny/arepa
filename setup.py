@@ -25,7 +25,7 @@ test_requirements = [
 
 setup(
     name='arepa',
-    version='0.2.0',
+    version='0.2.1',
     description="Arepa-making utility",
     long_description=readme + '\n\n' + history,
     author="Daniel Roy Greenfeld",
